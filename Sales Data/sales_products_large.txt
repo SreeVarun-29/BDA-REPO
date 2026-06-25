@@ -1,0 +1,1000 @@
+2024-06-12,Monitor,20606.36,Mumbai
+2024-03-03,Mouse,1183.77,Bangalore
+2024-06-22,RAM,5542.96,Delhi
+2024-01-09,Laptop,54838.71,Delhi
+2024-05-09,Cooling Pad,1754.12,Mumbai
+2024-06-15,RAM,3322.64,Kolkata
+2024-05-30,Headphones,6432.25,Mumbai
+2024-02-10,USB Hub,916.81,Pune
+2024-02-25,Webcam,2370.98,Delhi
+2024-01-25,Webcam,4414.90,Pune
+2024-01-12,SSD,11758.04,Delhi
+2024-04-06,Monitor,22099.88,Hyderabad
+2024-06-07,Webcam,4818.29,Chennai
+2024-01-12,Mouse,1482.27,Hyderabad
+2024-02-29,Monitor,12725.55,Kolkata
+2024-06-11,Webcam,3480.72,Bangalore
+2024-02-23,Headphones,5459.35,Delhi
+2024-02-13,RAM,2980.41,Chennai
+2024-04-07,Headphones,5949.99,Chennai
+2024-01-15,Mouse,1266.05,Mumbai
+2024-04-12,Headphones,2871.39,Delhi
+2024-05-25,Webcam,4621.75,Chennai
+2024-04-11,SSD,5383.92,Bangalore
+2024-03-04,RAM,6482.08,Hyderabad
+2024-04-19,Cooling Pad,1415.39,Kolkata
+2024-02-05,RAM,2545.46,Ahmedabad
+2024-01-13,Monitor,18666.58,Bangalore
+2024-06-23,USB Hub,1077.15,Delhi
+2024-06-01,SSD,11739.71,Hyderabad
+2024-01-03,Monitor,21066.18,Hyderabad
+2024-03-28,Monitor,15391.01,Hyderabad
+2024-04-26,Laptop,88734.96,Hyderabad
+2024-02-15,RAM,7223.11,Delhi
+2024-03-17,RAM,2917.04,Chennai
+2024-02-11,RAM,5593.67,Mumbai
+2024-05-05,Laptop,86809.44,Delhi
+2024-03-19,Mouse,589.05,Mumbai
+2024-05-25,Monitor,20442.43,Delhi
+2024-01-18,RAM,2770.35,Bangalore
+2024-05-01,RAM,3590.34,Bangalore
+2024-06-04,USB Hub,1893.37,Chennai
+2024-06-25,Mouse,778.79,Hyderabad
+2024-06-20,Webcam,5598.46,Ahmedabad
+2024-04-25,Monitor,11819.85,Chennai
+2024-03-27,Laptop,71479.81,Chennai
+2024-01-02,Monitor,11892.01,Mumbai
+2024-01-09,Webcam,4056.62,Delhi
+2024-03-12,SSD,7853.11,Chennai
+2024-05-26,Cooling Pad,1213.10,Ahmedabad
+2024-05-01,USB Hub,641.49,Chennai
+2024-06-17,USB Hub,1135.37,Pune
+2024-04-29,Laptop,47727.57,Delhi
+2024-03-27,Monitor,11257.03,Chennai
+2024-05-17,SSD,6796.93,Bangalore
+2024-03-12,SSD,10870.37,Chennai
+2024-01-20,SSD,3455.29,Delhi
+2024-05-18,Laptop,86686.51,Delhi
+2024-03-01,Keyboard,2111.23,Kolkata
+2024-02-24,USB Hub,746.96,Mumbai
+2024-01-01,USB Hub,1889.78,Hyderabad
+2024-04-26,Headphones,6027.84,Kolkata
+2024-05-22,SSD,4709.08,Bangalore
+2024-02-25,Laptop,78658.90,Mumbai
+2024-01-15,Laptop,67628.27,Ahmedabad
+2024-05-15,Keyboard,3394.10,Mumbai
+2024-01-21,Keyboard,2406.59,Delhi
+2024-06-21,Mouse,443.86,Kolkata
+2024-05-25,Mouse,1043.26,Mumbai
+2024-04-17,Cooling Pad,2389.00,Pune
+2024-02-22,Webcam,3062.46,Chennai
+2024-02-03,Headphones,3555.15,Ahmedabad
+2024-01-19,Laptop,72952.17,Ahmedabad
+2024-05-24,Monitor,17139.78,Delhi
+2024-05-09,Headphones,7566.19,Bangalore
+2024-01-18,Mouse,641.98,Pune
+2024-04-22,RAM,5670.07,Hyderabad
+2024-06-16,RAM,6007.18,Mumbai
+2024-05-21,Headphones,7603.05,Delhi
+2024-02-04,Headphones,7283.13,Delhi
+2024-05-21,Keyboard,1560.74,Hyderabad
+2024-02-23,Webcam,4749.99,Chennai
+2024-03-08,RAM,3506.73,Ahmedabad
+2024-01-14,Monitor,22098.92,Kolkata
+2024-01-12,Laptop,79700.37,Pune
+2024-06-12,Headphones,6318.00,Bangalore
+2024-05-21,USB Hub,667.81,Mumbai
+2024-06-25,Keyboard,3053.41,Mumbai
+2024-05-29,RAM,4578.72,Bangalore
+2024-01-11,Headphones,7343.38,Pune
+2024-01-11,Webcam,4728.27,Chennai
+2024-06-19,Monitor,21261.98,Pune
+2024-04-14,Cooling Pad,2373.80,Bangalore
+2024-03-01,Keyboard,3179.82,Bangalore
+2024-01-07,Keyboard,2912.44,Pune
+2024-04-15,Mouse,491.04,Hyderabad
+2024-06-28,Monitor,22826.84,Kolkata
+2024-04-30,Mouse,1279.90,Chennai
+2024-04-27,Webcam,5282.15,Hyderabad
+2024-02-28,Mouse,1092.04,Mumbai
+2024-04-12,Webcam,5457.41,Hyderabad
+2024-03-12,Webcam,4718.07,Kolkata
+2024-05-17,Webcam,2461.37,Mumbai
+2024-03-07,Keyboard,903.29,Hyderabad
+2024-06-01,USB Hub,1592.82,Pune
+2024-03-21,USB Hub,1077.79,Delhi
+2024-05-27,Mouse,353.26,Hyderabad
+2024-04-21,Laptop,61389.97,Chennai
+2024-01-18,Webcam,4653.55,Pune
+2024-02-01,Headphones,5834.80,Hyderabad
+2024-03-24,USB Hub,1331.62,Hyderabad
+2024-02-19,USB Hub,1515.98,Kolkata
+2024-02-14,Cooling Pad,1490.33,Hyderabad
+2024-01-01,Headphones,2866.19,Hyderabad
+2024-05-28,Cooling Pad,1590.48,Pune
+2024-04-23,Mouse,1252.48,Ahmedabad
+2024-02-13,Monitor,16762.68,Hyderabad
+2024-06-11,Cooling Pad,958.76,Pune
+2024-03-01,Headphones,6742.66,Chennai
+2024-02-07,Laptop,56017.91,Mumbai
+2024-05-01,Cooling Pad,1574.21,Delhi
+2024-06-10,Cooling Pad,2021.19,Chennai
+2024-04-08,SSD,5195.86,Kolkata
+2024-06-16,Laptop,80028.92,Delhi
+2024-02-26,Keyboard,935.59,Ahmedabad
+2024-03-04,Monitor,10266.76,Ahmedabad
+2024-04-28,RAM,7700.24,Pune
+2024-04-23,Cooling Pad,2211.97,Kolkata
+2024-05-20,SSD,9692.90,Bangalore
+2024-05-01,SSD,9765.99,Hyderabad
+2024-06-12,Headphones,5573.86,Ahmedabad
+2024-03-11,SSD,9421.90,Delhi
+2024-03-01,Headphones,3578.11,Pune
+2024-05-18,Monitor,10564.12,Bangalore
+2024-04-08,Keyboard,973.42,Chennai
+2024-04-14,Webcam,3663.10,Ahmedabad
+2024-02-22,USB Hub,1857.26,Kolkata
+2024-05-29,Laptop,66464.09,Kolkata
+2024-03-31,Headphones,7047.41,Kolkata
+2024-04-17,RAM,4929.38,Chennai
+2024-03-10,USB Hub,543.54,Ahmedabad
+2024-03-27,USB Hub,1760.76,Bangalore
+2024-02-02,Cooling Pad,2341.78,Mumbai
+2024-05-31,Cooling Pad,942.71,Mumbai
+2024-04-19,Keyboard,1290.67,Ahmedabad
+2024-03-07,USB Hub,817.49,Pune
+2024-03-24,Webcam,3113.03,Kolkata
+2024-04-17,Headphones,4556.99,Delhi
+2024-05-18,Laptop,55090.00,Pune
+2024-01-18,Laptop,87732.53,Mumbai
+2024-02-21,Laptop,55734.52,Bangalore
+2024-05-01,Monitor,15905.58,Chennai
+2024-03-06,Webcam,4423.57,Bangalore
+2024-01-30,Keyboard,1091.87,Hyderabad
+2024-01-07,Headphones,4078.25,Kolkata
+2024-02-20,Monitor,9732.32,Chennai
+2024-03-18,Cooling Pad,2153.59,Delhi
+2024-05-24,Laptop,68973.54,Pune
+2024-06-18,Webcam,4023.84,Delhi
+2024-03-28,Laptop,82004.89,Kolkata
+2024-01-28,USB Hub,1453.38,Pune
+2024-04-27,Keyboard,1275.57,Kolkata
+2024-05-13,Headphones,4521.68,Ahmedabad
+2024-05-31,Headphones,7036.14,Pune
+2024-01-23,Headphones,3085.11,Ahmedabad
+2024-04-28,Cooling Pad,1371.87,Kolkata
+2024-05-06,Webcam,3950.20,Bangalore
+2024-03-31,Headphones,3317.78,Pune
+2024-06-01,Headphones,4858.08,Mumbai
+2024-02-18,Monitor,20241.27,Chennai
+2024-05-05,RAM,6143.66,Chennai
+2024-06-14,SSD,10136.40,Ahmedabad
+2024-01-24,Headphones,4128.61,Chennai
+2024-03-03,Headphones,4576.19,Pune
+2024-05-15,Webcam,5986.53,Kolkata
+2024-05-20,Webcam,4811.42,Pune
+2024-03-10,Headphones,2998.50,Hyderabad
+2024-02-19,Webcam,4971.52,Delhi
+2024-06-25,Keyboard,1384.24,Chennai
+2024-05-03,Headphones,7873.32,Hyderabad
+2024-02-19,Headphones,3845.73,Chennai
+2024-03-18,Laptop,57344.01,Bangalore
+2024-01-14,RAM,6184.50,Hyderabad
+2024-02-02,SSD,10854.48,Delhi
+2024-05-26,Headphones,4611.64,Ahmedabad
+2024-03-28,Keyboard,1481.69,Mumbai
+2024-05-02,Monitor,14812.03,Delhi
+2024-01-19,Cooling Pad,1057.94,Mumbai
+2024-05-24,Headphones,7960.47,Delhi
+2024-01-31,RAM,5637.91,Kolkata
+2024-06-07,Mouse,840.62,Kolkata
+2024-04-23,Headphones,3484.97,Kolkata
+2024-06-07,Laptop,87641.56,Delhi
+2024-02-23,Mouse,1092.51,Hyderabad
+2024-02-10,Mouse,962.39,Bangalore
+2024-02-10,Laptop,65272.67,Kolkata
+2024-06-01,SSD,3293.76,Hyderabad
+2024-03-14,Headphones,1962.67,Ahmedabad
+2024-02-29,Headphones,4263.40,Chennai
+2024-05-19,Mouse,1390.09,Bangalore
+2024-02-06,Monitor,10820.69,Mumbai
+2024-03-19,Cooling Pad,1546.56,Hyderabad
+2024-04-29,Headphones,7627.40,Kolkata
+2024-05-08,RAM,4626.55,Ahmedabad
+2024-06-02,Laptop,78054.03,Kolkata
+2024-06-03,Headphones,2093.62,Mumbai
+2024-06-21,Cooling Pad,2499.27,Mumbai
+2024-06-21,Headphones,6460.21,Mumbai
+2024-02-14,SSD,11244.66,Ahmedabad
+2024-02-16,Cooling Pad,1879.13,Kolkata
+2024-05-05,Monitor,13915.34,Ahmedabad
+2024-03-26,Webcam,5430.93,Delhi
+2024-03-25,USB Hub,932.33,Ahmedabad
+2024-04-12,RAM,4728.96,Mumbai
+2024-03-21,Headphones,2253.49,Pune
+2024-04-13,RAM,5945.96,Mumbai
+2024-05-18,SSD,3487.84,Kolkata
+2024-05-12,Webcam,4501.63,Ahmedabad
+2024-01-14,Mouse,959.06,Hyderabad
+2024-03-14,SSD,4092.83,Ahmedabad
+2024-06-10,Cooling Pad,2006.63,Chennai
+2024-03-20,RAM,5313.51,Mumbai
+2024-01-24,Mouse,853.74,Delhi
+2024-01-31,Keyboard,3318.16,Ahmedabad
+2024-03-15,RAM,4492.94,Hyderabad
+2024-05-03,SSD,7111.08,Chennai
+2024-02-07,USB Hub,1882.80,Chennai
+2024-05-10,Keyboard,1545.87,Delhi
+2024-04-16,Webcam,5282.20,Hyderabad
+2024-03-13,Headphones,7124.19,Ahmedabad
+2024-04-24,RAM,4070.74,Ahmedabad
+2024-05-21,RAM,4732.07,Kolkata
+2024-03-23,Mouse,986.16,Chennai
+2024-02-29,USB Hub,977.26,Mumbai
+2024-05-01,USB Hub,1982.62,Kolkata
+2024-06-15,Keyboard,3405.03,Ahmedabad
+2024-02-02,RAM,7218.20,Pune
+2024-04-22,Monitor,8260.91,Ahmedabad
+2024-02-06,USB Hub,612.24,Bangalore
+2024-03-08,Webcam,4599.35,Kolkata
+2024-03-25,RAM,7724.84,Kolkata
+2024-06-09,SSD,8557.14,Mumbai
+2024-03-01,Headphones,6353.98,Chennai
+2024-04-21,Monitor,15542.54,Delhi
+2024-06-26,Headphones,1798.94,Mumbai
+2024-01-15,Headphones,3936.47,Pune
+2024-02-07,Mouse,979.11,Kolkata
+2024-02-16,Keyboard,1013.21,Bangalore
+2024-04-07,Cooling Pad,1646.03,Chennai
+2024-05-29,Keyboard,2045.10,Chennai
+2024-03-06,SSD,9001.57,Hyderabad
+2024-04-29,Headphones,1980.10,Bangalore
+2024-03-29,Cooling Pad,1886.20,Hyderabad
+2024-04-18,Headphones,6994.48,Ahmedabad
+2024-02-20,USB Hub,659.98,Ahmedabad
+2024-04-07,Cooling Pad,1777.18,Pune
+2024-06-28,Headphones,7856.64,Mumbai
+2024-06-17,USB Hub,512.15,Hyderabad
+2024-06-24,Laptop,82477.75,Ahmedabad
+2024-03-14,Mouse,562.81,Pune
+2024-02-18,Cooling Pad,1952.20,Hyderabad
+2024-06-17,Keyboard,3239.19,Delhi
+2024-06-14,Laptop,80487.47,Hyderabad
+2024-01-09,Cooling Pad,2045.01,Pune
+2024-01-24,Headphones,6358.63,Pune
+2024-02-14,Mouse,1243.82,Bangalore
+2024-04-03,RAM,6982.84,Hyderabad
+2024-03-06,SSD,9719.03,Hyderabad
+2024-03-27,Monitor,24369.19,Ahmedabad
+2024-02-06,Mouse,1460.72,Kolkata
+2024-05-22,Webcam,5162.73,Delhi
+2024-01-04,Headphones,4456.11,Delhi
+2024-06-21,Headphones,6845.71,Kolkata
+2024-04-05,Monitor,16015.11,Chennai
+2024-06-07,RAM,7491.54,Pune
+2024-02-26,Monitor,23459.59,Ahmedabad
+2024-03-18,USB Hub,709.67,Delhi
+2024-01-10,Headphones,2254.78,Ahmedabad
+2024-03-01,RAM,4331.87,Bangalore
+2024-04-04,RAM,5524.04,Kolkata
+2024-02-09,USB Hub,1750.54,Delhi
+2024-06-06,USB Hub,549.07,Hyderabad
+2024-04-04,Mouse,833.64,Ahmedabad
+2024-03-01,Webcam,5923.71,Delhi
+2024-04-04,RAM,2363.30,Pune
+2024-03-11,Mouse,1438.81,Delhi
+2024-04-26,Monitor,18908.98,Chennai
+2024-06-01,Laptop,80405.76,Mumbai
+2024-03-03,Keyboard,985.25,Chennai
+2024-05-21,Mouse,1275.66,Chennai
+2024-02-29,Webcam,5154.58,Bangalore
+2024-06-01,Laptop,83628.28,Hyderabad
+2024-02-07,Keyboard,2955.99,Hyderabad
+2024-01-29,Laptop,45668.71,Bangalore
+2024-03-01,Cooling Pad,826.83,Pune
+2024-03-08,Laptop,78377.31,Bangalore
+2024-05-14,Monitor,16096.18,Delhi
+2024-04-02,RAM,4712.03,Delhi
+2024-02-26,Cooling Pad,2036.31,Mumbai
+2024-06-17,RAM,4748.26,Hyderabad
+2024-01-08,Laptop,83128.43,Ahmedabad
+2024-04-19,Monitor,20110.82,Ahmedabad
+2024-04-23,Monitor,13475.90,Delhi
+2024-02-07,Monitor,12675.27,Bangalore
+2024-06-11,Cooling Pad,1447.54,Pune
+2024-06-01,RAM,4722.29,Hyderabad
+2024-06-03,USB Hub,1689.64,Delhi
+2024-01-30,RAM,4580.42,Chennai
+2024-02-28,USB Hub,1741.13,Pune
+2024-04-12,USB Hub,968.82,Delhi
+2024-03-21,Headphones,7698.35,Pune
+2024-06-24,SSD,3821.02,Delhi
+2024-01-22,Monitor,9641.60,Kolkata
+2024-04-05,Keyboard,2383.46,Mumbai
+2024-05-23,RAM,6020.08,Pune
+2024-04-15,Webcam,5472.37,Kolkata
+2024-01-14,Headphones,3785.70,Hyderabad
+2024-05-27,RAM,2928.38,Chennai
+2024-05-03,Mouse,720.14,Delhi
+2024-05-22,Webcam,5050.42,Delhi
+2024-05-26,Mouse,1314.19,Kolkata
+2024-06-08,Cooling Pad,1835.29,Mumbai
+2024-06-17,Headphones,2672.70,Mumbai
+2024-06-28,Headphones,3781.65,Pune
+2024-02-16,Keyboard,987.88,Kolkata
+2024-06-11,Laptop,78575.03,Delhi
+2024-02-25,USB Hub,1180.47,Kolkata
+2024-02-10,Webcam,4886.38,Hyderabad
+2024-05-25,Cooling Pad,2301.68,Delhi
+2024-02-09,Keyboard,2619.72,Mumbai
+2024-03-10,SSD,7370.96,Kolkata
+2024-04-23,USB Hub,823.35,Hyderabad
+2024-05-11,Monitor,15308.53,Pune
+2024-03-13,Cooling Pad,1695.79,Ahmedabad
+2024-03-19,Laptop,62786.85,Chennai
+2024-06-02,Laptop,54199.04,Mumbai
+2024-02-24,Keyboard,1581.51,Hyderabad
+2024-01-31,Laptop,78615.64,Ahmedabad
+2024-02-14,Keyboard,2237.97,Kolkata
+2024-02-28,RAM,2432.45,Pune
+2024-01-11,USB Hub,1189.63,Mumbai
+2024-01-20,Webcam,4293.60,Kolkata
+2024-06-12,USB Hub,672.76,Hyderabad
+2024-01-06,Webcam,5205.29,Bangalore
+2024-06-07,SSD,3793.17,Pune
+2024-01-28,Mouse,1006.65,Kolkata
+2024-05-14,Monitor,22798.92,Kolkata
+2024-03-27,Mouse,1234.94,Pune
+2024-01-20,RAM,5183.63,Delhi
+2024-02-19,Webcam,4909.52,Pune
+2024-06-14,Keyboard,1077.57,Chennai
+2024-03-06,Mouse,1022.88,Bangalore
+2024-06-16,Monitor,24171.97,Bangalore
+2024-06-09,SSD,9790.01,Ahmedabad
+2024-05-28,SSD,10778.22,Pune
+2024-06-09,Webcam,3759.05,Bangalore
+2024-04-30,SSD,10166.97,Hyderabad
+2024-05-31,Laptop,67830.16,Pune
+2024-03-20,SSD,3338.47,Ahmedabad
+2024-04-04,Headphones,5690.33,Delhi
+2024-01-24,Cooling Pad,1586.61,Kolkata
+2024-05-21,Laptop,85907.25,Ahmedabad
+2024-05-26,Mouse,1026.01,Pune
+2024-05-08,Keyboard,2016.41,Mumbai
+2024-03-28,Monitor,8665.42,Bangalore
+2024-04-22,SSD,6275.08,Bangalore
+2024-03-13,USB Hub,1661.70,Kolkata
+2024-06-22,Cooling Pad,2141.69,Mumbai
+2024-06-14,Webcam,3318.76,Delhi
+2024-05-22,USB Hub,877.99,Hyderabad
+2024-06-17,Cooling Pad,1366.72,Bangalore
+2024-05-29,Keyboard,1637.63,Pune
+2024-06-16,USB Hub,1392.56,Bangalore
+2024-01-22,Headphones,5682.71,Kolkata
+2024-03-25,Keyboard,2544.27,Delhi
+2024-04-18,RAM,2109.38,Pune
+2024-03-20,Keyboard,1722.68,Chennai
+2024-05-04,Mouse,1499.97,Chennai
+2024-02-09,Monitor,22355.28,Hyderabad
+2024-01-26,RAM,5971.58,Mumbai
+2024-06-07,Keyboard,1216.48,Kolkata
+2024-02-16,Cooling Pad,2026.01,Bangalore
+2024-01-12,USB Hub,1514.54,Pune
+2024-03-01,SSD,9771.52,Hyderabad
+2024-04-24,Mouse,671.36,Chennai
+2024-04-30,Mouse,1113.97,Pune
+2024-05-26,SSD,9924.95,Ahmedabad
+2024-04-07,RAM,7797.61,Kolkata
+2024-02-21,Cooling Pad,2284.10,Bangalore
+2024-01-14,SSD,7990.87,Pune
+2024-01-27,RAM,3710.38,Delhi
+2024-02-11,Headphones,7384.49,Ahmedabad
+2024-02-07,USB Hub,1919.62,Delhi
+2024-02-26,SSD,11374.25,Pune
+2024-04-16,Laptop,67590.32,Kolkata
+2024-03-01,USB Hub,1062.37,Delhi
+2024-01-08,Webcam,5356.71,Delhi
+2024-06-15,Webcam,2550.40,Bangalore
+2024-03-14,SSD,9829.57,Bangalore
+2024-04-30,SSD,11152.72,Mumbai
+2024-01-05,Headphones,6927.26,Chennai
+2024-05-20,Cooling Pad,989.02,Kolkata
+2024-03-14,Mouse,446.22,Hyderabad
+2024-03-02,USB Hub,594.21,Ahmedabad
+2024-05-07,Cooling Pad,1874.32,Mumbai
+2024-05-27,Mouse,649.53,Bangalore
+2024-01-01,Cooling Pad,1208.96,Pune
+2024-04-16,Keyboard,2213.41,Delhi
+2024-04-02,Monitor,14637.71,Mumbai
+2024-04-30,Laptop,89146.77,Kolkata
+2024-03-05,Laptop,80483.40,Pune
+2024-03-29,Mouse,1225.80,Delhi
+2024-03-26,Keyboard,1751.21,Mumbai
+2024-03-27,Keyboard,3448.21,Ahmedabad
+2024-05-02,Keyboard,970.37,Bangalore
+2024-04-27,Laptop,54071.59,Hyderabad
+2024-02-21,Laptop,87001.69,Pune
+2024-05-11,USB Hub,879.97,Ahmedabad
+2024-06-14,Mouse,728.37,Hyderabad
+2024-01-13,Webcam,2497.90,Hyderabad
+2024-04-04,USB Hub,1614.96,Kolkata
+2024-04-08,Webcam,3984.81,Bangalore
+2024-05-07,Webcam,5204.59,Hyderabad
+2024-04-18,Monitor,18241.71,Kolkata
+2024-02-16,RAM,3927.27,Hyderabad
+2024-01-21,Webcam,3225.98,Hyderabad
+2024-06-03,USB Hub,1534.65,Bangalore
+2024-03-30,SSD,9541.33,Mumbai
+2024-03-31,Cooling Pad,1266.74,Kolkata
+2024-01-15,Monitor,14176.29,Kolkata
+2024-06-22,Keyboard,1185.50,Mumbai
+2024-06-04,SSD,4136.07,Mumbai
+2024-03-01,Webcam,3531.42,Pune
+2024-05-25,Laptop,75557.79,Bangalore
+2024-04-04,Webcam,5052.34,Ahmedabad
+2024-05-26,Keyboard,1874.69,Pune
+2024-06-15,Headphones,7743.38,Chennai
+2024-01-07,Keyboard,2197.91,Ahmedabad
+2024-05-23,Monitor,21174.40,Hyderabad
+2024-06-29,SSD,11967.29,Chennai
+2024-03-14,SSD,4103.74,Chennai
+2024-01-19,SSD,11088.11,Bangalore
+2024-04-23,Monitor,19353.28,Pune
+2024-01-17,RAM,7347.99,Hyderabad
+2024-02-10,Keyboard,2173.64,Pune
+2024-02-01,Mouse,584.08,Bangalore
+2024-05-06,Laptop,69930.96,Pune
+2024-04-04,SSD,8507.54,Bangalore
+2024-01-23,Monitor,14768.72,Hyderabad
+2024-05-02,RAM,6614.99,Kolkata
+2024-05-27,Monitor,24530.46,Bangalore
+2024-06-13,Monitor,15919.16,Ahmedabad
+2024-05-12,Webcam,5511.84,Bangalore
+2024-05-21,Cooling Pad,2105.23,Bangalore
+2024-02-03,USB Hub,1747.09,Mumbai
+2024-05-12,Keyboard,1244.57,Hyderabad
+2024-03-23,Mouse,1436.98,Pune
+2024-05-12,Headphones,3128.93,Delhi
+2024-06-11,RAM,2751.02,Hyderabad
+2024-03-18,Cooling Pad,1654.37,Delhi
+2024-02-13,Cooling Pad,1091.04,Bangalore
+2024-06-08,Cooling Pad,2232.30,Pune
+2024-05-24,Laptop,48655.03,Mumbai
+2024-06-13,Cooling Pad,1906.92,Hyderabad
+2024-05-26,USB Hub,1247.06,Mumbai
+2024-06-09,RAM,5851.44,Hyderabad
+2024-03-18,SSD,10242.19,Chennai
+2024-06-24,USB Hub,1180.32,Hyderabad
+2024-06-25,Laptop,64782.25,Bangalore
+2024-05-03,SSD,6061.73,Chennai
+2024-02-06,Webcam,4936.80,Pune
+2024-03-29,USB Hub,1641.00,Bangalore
+2024-05-11,RAM,3914.70,Delhi
+2024-04-29,Monitor,15643.13,Hyderabad
+2024-02-06,Monitor,12933.60,Mumbai
+2024-04-08,Cooling Pad,1222.06,Kolkata
+2024-02-10,Webcam,2759.34,Pune
+2024-02-10,SSD,7488.84,Ahmedabad
+2024-03-19,SSD,3810.44,Mumbai
+2024-04-10,RAM,7800.12,Ahmedabad
+2024-02-25,Cooling Pad,882.72,Pune
+2024-03-13,SSD,5571.74,Ahmedabad
+2024-01-03,Monitor,10276.89,Kolkata
+2024-03-08,Webcam,3463.75,Kolkata
+2024-04-12,Laptop,61313.57,Chennai
+2024-03-14,Monitor,16572.34,Kolkata
+2024-05-20,Headphones,2336.31,Delhi
+2024-01-25,USB Hub,1692.35,Pune
+2024-03-27,RAM,6529.79,Pune
+2024-02-20,Cooling Pad,1650.13,Kolkata
+2024-01-12,Laptop,77111.63,Bangalore
+2024-05-01,RAM,2893.64,Ahmedabad
+2024-05-11,Keyboard,3314.70,Pune
+2024-03-22,Keyboard,3474.66,Kolkata
+2024-03-17,Cooling Pad,1662.44,Pune
+2024-05-10,RAM,6252.44,Ahmedabad
+2024-03-17,SSD,6315.22,Mumbai
+2024-06-21,Monitor,17922.94,Kolkata
+2024-06-25,Laptop,56948.87,Ahmedabad
+2024-06-16,Cooling Pad,2026.38,Chennai
+2024-05-29,SSD,7718.09,Bangalore
+2024-06-07,USB Hub,1732.49,Bangalore
+2024-03-03,Laptop,53585.29,Delhi
+2024-04-22,Webcam,2605.73,Kolkata
+2024-06-25,Mouse,902.18,Kolkata
+2024-06-05,SSD,9351.98,Mumbai
+2024-05-12,Mouse,1497.75,Pune
+2024-05-02,RAM,3882.52,Kolkata
+2024-02-14,SSD,7916.46,Pune
+2024-06-22,Headphones,2749.72,Ahmedabad
+2024-03-04,Headphones,2961.64,Hyderabad
+2024-03-17,Headphones,5986.56,Chennai
+2024-05-05,Webcam,3395.21,Ahmedabad
+2024-03-11,Headphones,5227.60,Delhi
+2024-05-19,USB Hub,1727.57,Kolkata
+2024-02-07,Headphones,3369.60,Mumbai
+2024-01-21,Webcam,4623.89,Ahmedabad
+2024-05-02,Mouse,1293.54,Chennai
+2024-03-10,RAM,2823.64,Hyderabad
+2024-06-06,Cooling Pad,1212.18,Chennai
+2024-06-20,RAM,5827.67,Chennai
+2024-01-14,Monitor,13614.99,Kolkata
+2024-04-30,Monitor,8088.08,Bangalore
+2024-05-20,Keyboard,2562.81,Kolkata
+2024-05-01,SSD,9803.20,Chennai
+2024-03-14,Webcam,4583.59,Hyderabad
+2024-01-23,Cooling Pad,1709.76,Chennai
+2024-01-10,Keyboard,3182.06,Kolkata
+2024-02-15,Laptop,80458.23,Kolkata
+2024-02-17,Headphones,1560.24,Mumbai
+2024-05-25,Cooling Pad,2378.37,Delhi
+2024-03-26,Headphones,7929.15,Ahmedabad
+2024-05-19,RAM,7335.56,Ahmedabad
+2024-02-04,RAM,3637.02,Ahmedabad
+2024-01-29,Webcam,4924.48,Bangalore
+2024-06-14,Headphones,1591.55,Bangalore
+2024-03-27,Headphones,2640.72,Chennai
+2024-06-12,USB Hub,1272.92,Kolkata
+2024-01-23,USB Hub,777.17,Delhi
+2024-02-05,SSD,11422.43,Pune
+2024-01-02,Headphones,3030.89,Kolkata
+2024-03-09,Webcam,4329.84,Hyderabad
+2024-05-26,Laptop,74415.75,Hyderabad
+2024-06-26,Mouse,1101.34,Mumbai
+2024-04-29,Headphones,4135.21,Bangalore
+2024-05-08,Headphones,5651.62,Delhi
+2024-03-16,Webcam,2876.51,Chennai
+2024-02-04,SSD,7094.81,Bangalore
+2024-06-04,Webcam,4807.76,Kolkata
+2024-04-30,RAM,6571.16,Chennai
+2024-06-23,Cooling Pad,1693.36,Delhi
+2024-05-15,Webcam,5668.98,Delhi
+2024-01-29,Laptop,70771.58,Chennai
+2024-02-08,Keyboard,3107.11,Pune
+2024-04-23,Monitor,20187.61,Chennai
+2024-05-05,Monitor,21747.77,Ahmedabad
+2024-04-26,Keyboard,2033.36,Kolkata
+2024-01-15,RAM,6036.61,Ahmedabad
+2024-03-19,Laptop,56450.57,Kolkata
+2024-01-01,Mouse,354.35,Delhi
+2024-03-29,Monitor,23887.91,Mumbai
+2024-01-18,SSD,5583.82,Mumbai
+2024-02-16,Keyboard,1811.04,Kolkata
+2024-04-07,SSD,6380.81,Kolkata
+2024-06-23,RAM,5921.20,Bangalore
+2024-03-30,Monitor,24878.40,Bangalore
+2024-04-10,RAM,6367.15,Bangalore
+2024-02-27,Laptop,89032.08,Mumbai
+2024-04-28,RAM,5191.60,Kolkata
+2024-02-28,Mouse,715.39,Ahmedabad
+2024-03-11,Mouse,338.66,Delhi
+2024-06-18,USB Hub,861.00,Mumbai
+2024-01-18,Monitor,15589.50,Mumbai
+2024-06-21,Laptop,78324.35,Chennai
+2024-04-12,SSD,7857.84,Chennai
+2024-01-15,Keyboard,1432.24,Hyderabad
+2024-05-27,Webcam,2947.62,Pune
+2024-02-06,RAM,4481.36,Chennai
+2024-03-11,Laptop,73169.69,Bangalore
+2024-04-19,RAM,2281.30,Ahmedabad
+2024-03-29,USB Hub,1544.46,Pune
+2024-04-14,Keyboard,1816.44,Hyderabad
+2024-05-17,SSD,10644.07,Chennai
+2024-03-17,Keyboard,3269.80,Ahmedabad
+2024-05-23,USB Hub,1335.93,Kolkata
+2024-02-04,USB Hub,882.49,Chennai
+2024-03-25,Monitor,22401.27,Ahmedabad
+2024-01-24,RAM,2309.22,Chennai
+2024-04-06,Cooling Pad,2285.15,Mumbai
+2024-02-18,Cooling Pad,1614.97,Chennai
+2024-03-26,Headphones,2876.75,Mumbai
+2024-02-18,Monitor,23545.50,Ahmedabad
+2024-06-27,Cooling Pad,1474.27,Chennai
+2024-03-02,RAM,6653.08,Pune
+2024-04-07,SSD,5775.80,Pune
+2024-04-02,RAM,4796.02,Ahmedabad
+2024-04-30,Webcam,3482.82,Chennai
+2024-04-15,Laptop,78356.36,Chennai
+2024-01-05,Headphones,3418.75,Kolkata
+2024-02-20,Webcam,3519.36,Chennai
+2024-03-03,SSD,5315.94,Pune
+2024-05-05,SSD,4514.10,Ahmedabad
+2024-03-31,Keyboard,2744.85,Bangalore
+2024-05-05,Keyboard,2214.65,Mumbai
+2024-01-20,Laptop,63557.65,Mumbai
+2024-06-10,Mouse,1148.60,Delhi
+2024-01-03,Mouse,747.84,Ahmedabad
+2024-06-07,Cooling Pad,1920.78,Ahmedabad
+2024-01-05,Laptop,45533.29,Kolkata
+2024-05-15,Headphones,1611.43,Hyderabad
+2024-06-27,USB Hub,660.52,Bangalore
+2024-01-25,RAM,3445.81,Bangalore
+2024-06-07,RAM,6891.29,Hyderabad
+2024-03-09,USB Hub,1059.58,Delhi
+2024-04-13,SSD,11912.10,Chennai
+2024-02-27,Headphones,5749.28,Delhi
+2024-06-15,Laptop,63237.52,Delhi
+2024-04-06,RAM,2336.69,Ahmedabad
+2024-01-03,Keyboard,2149.62,Delhi
+2024-04-21,Webcam,5579.16,Delhi
+2024-01-11,Mouse,1381.53,Chennai
+2024-06-26,Cooling Pad,1260.86,Ahmedabad
+2024-01-20,Headphones,2665.80,Mumbai
+2024-03-21,Laptop,71416.62,Chennai
+2024-04-11,Monitor,10761.65,Hyderabad
+2024-03-02,Cooling Pad,1950.96,Kolkata
+2024-05-18,Webcam,5022.44,Kolkata
+2024-02-05,Monitor,8912.84,Pune
+2024-04-21,Mouse,708.71,Delhi
+2024-06-06,Cooling Pad,2447.16,Kolkata
+2024-03-24,Laptop,80259.67,Hyderabad
+2024-04-25,SSD,6202.30,Chennai
+2024-04-06,USB Hub,1519.54,Bangalore
+2024-06-18,USB Hub,1658.25,Delhi
+2024-03-16,Mouse,398.45,Delhi
+2024-02-09,USB Hub,1609.48,Bangalore
+2024-03-22,Webcam,2366.08,Delhi
+2024-03-19,SSD,9852.12,Pune
+2024-01-27,Keyboard,1305.96,Delhi
+2024-04-24,RAM,2619.76,Kolkata
+2024-01-23,Webcam,4387.70,Delhi
+2024-03-24,USB Hub,937.77,Mumbai
+2024-04-09,Monitor,17723.33,Chennai
+2024-02-13,USB Hub,708.26,Bangalore
+2024-03-18,Headphones,2448.58,Ahmedabad
+2024-02-12,USB Hub,1131.65,Hyderabad
+2024-05-03,Monitor,12278.90,Pune
+2024-03-04,SSD,7120.75,Chennai
+2024-02-04,Headphones,7667.35,Mumbai
+2024-03-26,Cooling Pad,2166.93,Kolkata
+2024-03-25,SSD,6875.55,Pune
+2024-06-15,Cooling Pad,1310.74,Bangalore
+2024-06-03,Mouse,677.02,Ahmedabad
+2024-04-11,Webcam,4939.50,Hyderabad
+2024-06-11,SSD,5932.98,Chennai
+2024-03-12,USB Hub,670.83,Pune
+2024-05-24,Mouse,1118.06,Bangalore
+2024-05-20,Laptop,87433.87,Ahmedabad
+2024-02-23,SSD,10481.54,Hyderabad
+2024-01-18,USB Hub,708.77,Ahmedabad
+2024-03-18,Mouse,1090.40,Hyderabad
+2024-04-18,USB Hub,1173.60,Delhi
+2024-06-02,SSD,7809.31,Kolkata
+2024-06-26,USB Hub,1686.08,Mumbai
+2024-04-02,RAM,2656.22,Delhi
+2024-03-04,Webcam,4588.00,Bangalore
+2024-01-12,Cooling Pad,2443.58,Kolkata
+2024-03-25,USB Hub,515.82,Delhi
+2024-03-07,Mouse,834.93,Chennai
+2024-04-10,SSD,6104.71,Bangalore
+2024-01-07,SSD,5658.89,Delhi
+2024-01-22,Monitor,13921.59,Bangalore
+2024-03-28,SSD,7690.03,Chennai
+2024-03-30,SSD,6943.49,Delhi
+2024-06-27,SSD,3604.57,Pune
+2024-01-12,Monitor,22436.06,Mumbai
+2024-06-14,Monitor,23808.68,Bangalore
+2024-03-03,RAM,5311.46,Bangalore
+2024-03-25,RAM,7750.78,Kolkata
+2024-02-29,USB Hub,779.58,Bangalore
+2024-06-17,USB Hub,543.79,Kolkata
+2024-06-06,Mouse,1010.64,Ahmedabad
+2024-04-09,Laptop,54260.30,Chennai
+2024-06-29,Monitor,21591.54,Delhi
+2024-05-17,Keyboard,1680.16,Pune
+2024-04-27,Monitor,19401.92,Hyderabad
+2024-05-05,RAM,5581.82,Pune
+2024-06-05,USB Hub,1021.89,Delhi
+2024-04-27,Cooling Pad,2183.36,Bangalore
+2024-06-29,Headphones,5868.72,Delhi
+2024-03-21,Monitor,13191.46,Chennai
+2024-02-16,Webcam,4043.30,Bangalore
+2024-04-17,Cooling Pad,1777.17,Bangalore
+2024-04-18,Keyboard,2515.85,Ahmedabad
+2024-06-26,Keyboard,2122.03,Bangalore
+2024-02-05,Keyboard,3073.36,Pune
+2024-06-07,Laptop,87832.89,Pune
+2024-05-04,Keyboard,3001.08,Chennai
+2024-05-23,RAM,4454.81,Ahmedabad
+2024-05-05,USB Hub,1233.05,Ahmedabad
+2024-01-22,Cooling Pad,2153.00,Mumbai
+2024-02-26,Headphones,3286.54,Mumbai
+2024-05-17,Headphones,6574.81,Bangalore
+2024-05-24,SSD,8154.43,Delhi
+2024-03-09,RAM,5252.26,Pune
+2024-01-11,SSD,11907.98,Chennai
+2024-01-27,Mouse,1349.77,Hyderabad
+2024-01-09,SSD,6137.19,Hyderabad
+2024-01-23,SSD,9980.68,Delhi
+2024-03-01,Mouse,1333.26,Pune
+2024-06-05,USB Hub,1424.23,Bangalore
+2024-02-22,Mouse,984.09,Mumbai
+2024-05-16,Headphones,3603.75,Bangalore
+2024-06-29,Headphones,5222.78,Hyderabad
+2024-05-11,Monitor,24367.12,Bangalore
+2024-04-15,Laptop,84017.14,Hyderabad
+2024-02-02,Keyboard,1194.86,Chennai
+2024-03-23,Mouse,887.35,Kolkata
+2024-05-27,Headphones,3938.62,Kolkata
+2024-01-20,Monitor,16765.43,Kolkata
+2024-03-12,Webcam,5801.02,Ahmedabad
+2024-03-24,Cooling Pad,2277.14,Mumbai
+2024-01-24,SSD,10650.96,Pune
+2024-05-16,USB Hub,1952.19,Chennai
+2024-02-24,SSD,5905.79,Hyderabad
+2024-03-13,Webcam,4264.57,Bangalore
+2024-05-04,Webcam,2183.77,Mumbai
+2024-06-09,SSD,4118.13,Mumbai
+2024-02-10,SSD,3006.08,Ahmedabad
+2024-04-19,Mouse,1358.58,Bangalore
+2024-03-18,Keyboard,1052.02,Hyderabad
+2024-04-02,Headphones,3916.98,Delhi
+2024-06-15,Keyboard,1870.12,Mumbai
+2024-03-19,Mouse,1086.58,Kolkata
+2024-06-29,Monitor,11628.16,Mumbai
+2024-01-20,Keyboard,2202.50,Chennai
+2024-04-23,Laptop,76301.87,Mumbai
+2024-01-31,USB Hub,1216.55,Bangalore
+2024-02-28,USB Hub,1596.15,Delhi
+2024-01-27,Monitor,14248.55,Pune
+2024-03-17,Keyboard,2888.34,Kolkata
+2024-02-04,Keyboard,2232.37,Delhi
+2024-01-03,Cooling Pad,1548.17,Bangalore
+2024-02-24,Keyboard,2463.41,Kolkata
+2024-04-23,Mouse,1375.91,Delhi
+2024-02-05,Monitor,13976.11,Kolkata
+2024-04-19,Webcam,2991.15,Bangalore
+2024-06-14,Monitor,17407.74,Chennai
+2024-06-02,Cooling Pad,2124.25,Hyderabad
+2024-06-25,Laptop,54245.06,Hyderabad
+2024-06-04,RAM,6487.06,Chennai
+2024-03-16,Laptop,67269.95,Chennai
+2024-01-29,Mouse,1065.70,Ahmedabad
+2024-01-19,RAM,7921.30,Mumbai
+2024-03-22,Keyboard,3124.20,Kolkata
+2024-05-25,USB Hub,1319.53,Pune
+2024-02-14,SSD,3150.20,Delhi
+2024-01-18,Laptop,54708.43,Hyderabad
+2024-01-16,USB Hub,1442.86,Hyderabad
+2024-05-08,USB Hub,1552.72,Kolkata
+2024-01-22,RAM,3664.81,Bangalore
+2024-03-20,Monitor,24563.33,Chennai
+2024-02-09,RAM,4344.39,Pune
+2024-06-11,Monitor,19877.49,Hyderabad
+2024-03-02,Laptop,48879.58,Chennai
+2024-04-21,Monitor,18409.05,Ahmedabad
+2024-01-15,Headphones,2276.38,Bangalore
+2024-02-05,Laptop,67338.58,Bangalore
+2024-03-29,RAM,3001.78,Hyderabad
+2024-02-02,Headphones,6514.30,Delhi
+2024-01-08,Webcam,3087.92,Kolkata
+2024-01-17,Headphones,4724.96,Delhi
+2024-05-10,Webcam,3998.44,Mumbai
+2024-05-25,Keyboard,1224.74,Pune
+2024-01-27,Cooling Pad,1188.29,Delhi
+2024-05-10,Laptop,83641.01,Mumbai
+2024-01-04,Mouse,866.12,Mumbai
+2024-04-08,Keyboard,3314.13,Bangalore
+2024-01-10,RAM,3347.09,Kolkata
+2024-03-04,USB Hub,906.89,Pune
+2024-01-20,Cooling Pad,1002.98,Pune
+2024-06-21,Laptop,55043.33,Bangalore
+2024-05-12,Laptop,48101.69,Kolkata
+2024-04-29,Headphones,3627.46,Hyderabad
+2024-05-21,SSD,6320.27,Mumbai
+2024-03-15,Cooling Pad,2057.28,Hyderabad
+2024-03-03,SSD,8325.22,Pune
+2024-05-06,Mouse,480.68,Chennai
+2024-04-14,Laptop,69369.53,Chennai
+2024-06-11,Laptop,45065.79,Pune
+2024-06-17,USB Hub,655.92,Hyderabad
+2024-05-15,Mouse,890.43,Kolkata
+2024-01-16,Keyboard,1051.17,Hyderabad
+2024-02-29,RAM,6205.08,Kolkata
+2024-04-05,SSD,8226.94,Delhi
+2024-05-09,Keyboard,1002.04,Kolkata
+2024-05-25,Laptop,74809.98,Kolkata
+2024-02-03,Mouse,613.19,Hyderabad
+2024-03-21,USB Hub,977.09,Pune
+2024-03-10,Mouse,1432.27,Delhi
+2024-02-04,Cooling Pad,1064.20,Delhi
+2024-02-12,SSD,5826.30,Ahmedabad
+2024-01-31,RAM,7787.81,Pune
+2024-02-23,SSD,7170.12,Hyderabad
+2024-01-31,Monitor,21729.15,Bangalore
+2024-03-18,Cooling Pad,1165.54,Mumbai
+2024-03-24,Keyboard,2720.12,Delhi
+2024-04-01,USB Hub,1515.78,Mumbai
+2024-03-07,Keyboard,3370.66,Mumbai
+2024-04-25,RAM,2568.35,Chennai
+2024-01-27,Keyboard,832.28,Delhi
+2024-02-26,Keyboard,3023.92,Chennai
+2024-04-05,Monitor,23596.29,Hyderabad
+2024-01-20,Laptop,53898.77,Delhi
+2024-06-14,SSD,3827.81,Bangalore
+2024-03-25,Monitor,24018.77,Mumbai
+2024-01-13,Keyboard,3018.55,Kolkata
+2024-04-11,SSD,6444.56,Mumbai
+2024-04-19,Keyboard,1379.73,Pune
+2024-02-17,Headphones,4399.07,Hyderabad
+2024-02-08,Laptop,74127.53,Chennai
+2024-05-07,USB Hub,591.47,Ahmedabad
+2024-03-12,USB Hub,1128.85,Bangalore
+2024-06-13,RAM,5784.53,Chennai
+2024-05-19,Laptop,80186.21,Kolkata
+2024-04-01,SSD,6096.31,Ahmedabad
+2024-05-24,RAM,4330.29,Pune
+2024-02-16,Laptop,71870.24,Pune
+2024-01-08,Headphones,6756.25,Mumbai
+2024-04-30,RAM,6601.05,Pune
+2024-02-29,Keyboard,1469.21,Delhi
+2024-03-02,Headphones,6466.32,Mumbai
+2024-02-26,Cooling Pad,1403.17,Kolkata
+2024-02-14,Keyboard,2399.80,Chennai
+2024-06-27,Webcam,4813.81,Mumbai
+2024-03-31,Cooling Pad,1757.29,Bangalore
+2024-02-18,SSD,4580.01,Hyderabad
+2024-01-10,Monitor,11954.60,Mumbai
+2024-02-26,Laptop,45030.76,Ahmedabad
+2024-06-06,Mouse,708.91,Bangalore
+2024-02-15,Webcam,2087.65,Mumbai
+2024-05-30,Keyboard,3085.50,Delhi
+2024-04-03,Monitor,19977.15,Pune
+2024-06-18,USB Hub,1004.84,Delhi
+2024-03-23,Keyboard,2777.35,Bangalore
+2024-04-21,SSD,4567.82,Pune
+2024-05-23,Cooling Pad,1179.50,Pune
+2024-05-30,Keyboard,1628.42,Kolkata
+2024-06-25,Headphones,2655.10,Bangalore
+2024-01-01,Cooling Pad,2246.29,Kolkata
+2024-05-25,Laptop,72107.49,Bangalore
+2024-06-05,Mouse,1424.03,Delhi
+2024-02-06,Webcam,2951.98,Delhi
+2024-03-22,Keyboard,3018.49,Delhi
+2024-06-20,Webcam,2045.58,Ahmedabad
+2024-02-23,Mouse,720.58,Delhi
+2024-01-28,Laptop,62367.17,Mumbai
+2024-04-17,Keyboard,2131.32,Kolkata
+2024-04-06,Webcam,2405.71,Kolkata
+2024-05-02,Cooling Pad,1076.52,Chennai
+2024-01-19,Laptop,45903.51,Hyderabad
+2024-03-07,Monitor,13810.74,Delhi
+2024-04-06,Keyboard,2277.02,Delhi
+2024-01-24,Webcam,4818.02,Ahmedabad
+2024-04-20,Keyboard,1224.18,Kolkata
+2024-01-26,Webcam,5897.59,Chennai
+2024-04-14,RAM,5963.59,Hyderabad
+2024-03-17,Mouse,359.56,Delhi
+2024-05-26,RAM,2921.54,Ahmedabad
+2024-04-02,Laptop,48943.28,Kolkata
+2024-06-18,Cooling Pad,1139.45,Ahmedabad
+2024-01-07,Mouse,1065.83,Bangalore
+2024-01-21,SSD,5775.18,Delhi
+2024-04-11,SSD,11053.90,Ahmedabad
+2024-03-08,Monitor,11142.98,Kolkata
+2024-04-07,Webcam,3783.10,Bangalore
+2024-03-08,SSD,5370.61,Ahmedabad
+2024-03-09,Cooling Pad,1056.92,Mumbai
+2024-06-27,Monitor,19358.40,Delhi
+2024-05-18,USB Hub,1330.40,Chennai
+2024-04-09,RAM,7793.77,Kolkata
+2024-06-24,SSD,7286.36,Chennai
+2024-01-21,USB Hub,1253.15,Mumbai
+2024-05-12,Cooling Pad,1004.48,Bangalore
+2024-04-24,Keyboard,3424.85,Bangalore
+2024-02-19,Keyboard,1943.11,Mumbai
+2024-06-23,USB Hub,1995.90,Chennai
+2024-06-09,Keyboard,1663.32,Hyderabad
+2024-01-18,Monitor,17458.19,Kolkata
+2024-05-21,Webcam,4078.75,Hyderabad
+2024-01-04,Cooling Pad,991.28,Kolkata
+2024-02-08,Keyboard,3297.31,Delhi
+2024-05-24,Monitor,22747.08,Hyderabad
+2024-03-29,USB Hub,1074.57,Hyderabad
+2024-05-04,Cooling Pad,863.69,Ahmedabad
+2024-03-11,USB Hub,1427.37,Bangalore
+2024-06-23,USB Hub,1093.69,Mumbai
+2024-03-25,Mouse,1194.90,Mumbai
+2024-03-09,Webcam,3351.46,Mumbai
+2024-03-18,Headphones,6978.50,Hyderabad
+2024-06-27,Monitor,10284.55,Chennai
+2024-04-23,Webcam,4915.20,Hyderabad
+2024-06-03,Monitor,15509.18,Chennai
+2024-04-14,SSD,10389.16,Pune
+2024-05-11,Keyboard,1640.03,Delhi
+2024-05-09,USB Hub,1670.77,Bangalore
+2024-05-14,Cooling Pad,1095.35,Mumbai
+2024-02-21,Laptop,46488.20,Chennai
+2024-01-13,Webcam,3095.91,Chennai
+2024-04-28,RAM,5812.46,Kolkata
+2024-02-01,Laptop,61761.00,Chennai
+2024-06-01,SSD,11644.68,Bangalore
+2024-05-01,Cooling Pad,1385.22,Pune
+2024-03-07,Monitor,8466.66,Hyderabad
+2024-01-13,Keyboard,3114.20,Chennai
+2024-06-14,Mouse,622.90,Chennai
+2024-04-14,RAM,7187.78,Mumbai
+2024-06-23,Laptop,86018.19,Ahmedabad
+2024-06-14,Keyboard,1404.18,Mumbai
+2024-06-04,Headphones,4254.74,Hyderabad
+2024-04-06,Webcam,3007.99,Ahmedabad
+2024-04-29,Headphones,5299.17,Kolkata
+2024-01-02,RAM,5368.74,Pune
+2024-06-01,Cooling Pad,1307.41,Hyderabad
+2024-01-28,SSD,6026.55,Delhi
+2024-03-11,Webcam,3044.59,Hyderabad
+2024-06-15,Headphones,2474.54,Chennai
+2024-03-02,Laptop,74723.86,Kolkata
+2024-06-23,Keyboard,2569.58,Mumbai
+2024-03-16,Headphones,4129.89,Kolkata
+2024-01-10,Cooling Pad,1383.38,Chennai
+2024-02-26,RAM,7439.16,Ahmedabad
+2024-06-20,Webcam,5381.68,Hyderabad
+2024-06-17,RAM,3762.70,Bangalore
+2024-04-30,Keyboard,2758.00,Hyderabad
+2024-05-23,Keyboard,2566.97,Pune
+2024-02-26,Webcam,4976.84,Chennai
+2024-03-19,USB Hub,1057.52,Pune
+2024-05-29,Headphones,7032.89,Ahmedabad
+2024-04-30,Laptop,66249.89,Delhi
+2024-02-19,RAM,7204.99,Delhi
+2024-04-07,RAM,4478.64,Hyderabad
+2024-02-08,Keyboard,1725.21,Chennai
+2024-05-25,SSD,5847.45,Bangalore
+2024-02-16,Monitor,13654.70,Ahmedabad
+2024-02-15,Webcam,2018.85,Mumbai
+2024-03-11,Mouse,991.53,Bangalore
+2024-02-10,SSD,4164.65,Delhi
+2024-04-21,USB Hub,1143.54,Kolkata
+2024-05-02,USB Hub,556.59,Mumbai
+2024-02-21,Webcam,5568.03,Mumbai
+2024-05-15,Mouse,1112.10,Mumbai
+2024-06-09,Mouse,1132.23,Chennai
+2024-03-29,Headphones,2167.60,Bangalore
+2024-05-08,Cooling Pad,1083.93,Hyderabad
+2024-01-12,Headphones,4463.52,Hyderabad
+2024-05-13,Cooling Pad,1537.23,Pune
+2024-06-24,Keyboard,3489.58,Pune
+2024-05-05,Webcam,2659.53,Chennai
+2024-04-13,Laptop,55094.46,Chennai
+2024-02-03,Mouse,1007.63,Mumbai
+2024-02-13,Monitor,20088.87,Pune
+2024-01-10,USB Hub,1656.87,Hyderabad
+2024-06-08,Laptop,74788.65,Mumbai
+2024-06-16,Laptop,76038.74,Mumbai
+2024-04-16,SSD,4112.36,Kolkata
+2024-03-05,SSD,4849.45,Bangalore
+2024-06-24,Laptop,63939.22,Hyderabad
+2024-01-26,RAM,5736.79,Hyderabad
+2024-06-28,Keyboard,3042.76,Kolkata
+2024-01-27,RAM,3696.24,Delhi
+2024-01-28,SSD,8481.02,Chennai
+2024-03-08,RAM,4147.53,Chennai
+2024-04-14,Headphones,1756.14,Bangalore
+2024-05-07,Mouse,696.72,Ahmedabad
+2024-01-01,Laptop,85809.60,Delhi
+2024-05-26,SSD,11545.01,Bangalore
+2024-05-10,Monitor,23381.25,Delhi
+2024-06-13,Mouse,1486.40,Ahmedabad
+2024-03-16,Headphones,1825.52,Ahmedabad
+2024-02-14,Laptop,61209.66,Hyderabad
+2024-06-22,Webcam,4954.16,Kolkata
+2024-01-25,Laptop,83339.94,Mumbai
+2024-06-18,Keyboard,1765.32,Pune
+2024-04-22,Cooling Pad,2293.41,Hyderabad
+2024-01-24,Webcam,2731.48,Pune
+2024-04-12,USB Hub,907.75,Ahmedabad
+2024-04-08,SSD,8839.62,Kolkata
+2024-02-12,Monitor,19834.89,Bangalore
+2024-01-16,Keyboard,1923.27,Delhi
+2024-05-31,SSD,4631.35,Ahmedabad
+2024-04-07,Webcam,5450.30,Mumbai
+2024-02-03,SSD,4016.44,Ahmedabad
+2024-04-15,SSD,3570.02,Mumbai
+2024-06-16,Webcam,4818.27,Mumbai
+2024-06-22,RAM,7867.37,Chennai
+2024-06-20,Webcam,3731.39,Delhi
+2024-03-04,SSD,8973.40,Pune
+2024-06-13,USB Hub,1758.55,Bangalore
+2024-05-22,Cooling Pad,819.80,Mumbai
+2024-02-10,RAM,7111.23,Ahmedabad
