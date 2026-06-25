@@ -1,0 +1,9 @@
+awesome	1
+big	2
+data	1
+hadoop	3
+hello	4
+is	2
+mapreduce	2
+powerful	1
+world	2

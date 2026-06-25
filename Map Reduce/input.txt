@@ -1,0 +1,5 @@
+hello hadoop hello world
+hadoop is awesome
+mapreduce is powerful
+hello mapreduce hello hadoop
+big data big world
