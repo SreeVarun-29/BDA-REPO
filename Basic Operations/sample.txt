@@ -1,0 +1,1 @@
+Hello Hadoop, this is a demo file for HDFS operations.
